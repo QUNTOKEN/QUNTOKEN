@@ -35,18 +35,6 @@ She looks like a joke... until your bags start pumping.
 
 ---
 
-## 🗺️ Roadmap
-
-| Phase     | Milestone                                                 |
-|-----------|------------------------------------------------------------|
-| 🟣 Q2 2025 | Branding, Smart Contract Setup, Community Channels        |
-| 🔵 Q3 2025 | Launch Presale, Airdrop Campaigns, Launch Website        |
-| 🟢 Q4 2025 | Staking + Mining Launch, CEX Listing, DAO Governance Init |
-| 🟡 Q1 2026 | Strategic Partnerships, Merch Drop, Meme Expansion       |
-| 🔮 Future  | Queenie NFTs, Utility Tease, MemeVerse Integration       |
-
----
-
 ## 🔒 Security & Trust
 
 - ✅ Smart contract will be verified & published
